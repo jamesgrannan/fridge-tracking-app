@@ -11,7 +11,8 @@ For our final group project at Northcoders we created an app that can track the 
 
 There is a traffic light system to determine what is out of date (i.e. red is out-of-date, amber means 'going out-of-date today and  green means still fresh'). You are also able to change the quantity and delete food from your fridge list as well as filter your fridge by category.
 
-### A link to our presentation will be posted here when it has been released.
+### Click below to view our presentation for the app
+[![Click here to view our presentation](http://img.youtube.com/vi/0K0Ok5AHvO8/0.jpg)](http://www.youtube.com/watch?v=0K0Ok5AHvO8)
 
 ## Setup
 It might be quite complicated at the moment to view this app as it is currently not hosted. You would require a firestore database from [Firebase](https://firebase.google.com/) and a clarifai api key to their [food identifcation AI model](https://www.clarifai.com/models/ai-food-recognition) as well as the [Expo app](https://expo.dev/) installed on your phone.
